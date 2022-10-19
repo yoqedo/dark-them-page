@@ -11,7 +11,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Overview
 
-This project is great if you're starting to get confident with slightly more complex layouts. The second section with the testimonial area will provide a nice challenge.
+This design has some nice layout challenges in it. A perfect training ground to practice your Flexbox and/or Grid skills.
 
 ### Links
 
